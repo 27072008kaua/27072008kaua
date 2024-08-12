@@ -1,4 +1,9 @@
-## Hi there 👋
+Meu nome é Kauã Ferreira
+
+estou estudando na alura
+estou me desenvolvendo na linguagem javascript
+utilizo esse espaço para minha organização e compartilhamneto dos meus projetos desenvolvidos
+![](link)
 
 <!--
 **27072008kaua/27072008kaua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
